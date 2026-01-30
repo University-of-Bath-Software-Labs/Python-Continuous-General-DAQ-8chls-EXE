@@ -19,6 +19,7 @@ This repository contains the **Windows executable (.EXE)** version of the progra
 ## Requirements
 
 - Windows PC
+- Valid Python install
 - A compatible NI DAQ device (e.g., NI USB‑6009 / similar)
 - NI software installed:
   - **NI‑DAQmx**
@@ -27,6 +28,7 @@ This repository contains the **Windows executable (.EXE)** version of the progra
 **Install links**
 - NI‑DAQmx: https://www.ni.com/en/support/downloads/drivers/download.ni-daq-mx.html
 - NI MAX: https://www.ni.com/en/support/downloads/drivers/download.system-configuration.html
+- Python: https://www.python.org/downloads/ 
 
 ---
 
